@@ -1,0 +1,49 @@
+﻿/* Estilo para el contenedor principal */
+.auto-style1 {
+    text-align: center;
+    margin: 20px auto;
+    width: 300px;
+}
+
+/* Estilo para la imagen */
+#imgUsuario {
+    width: 172px;
+    height: 163px;
+    margin-bottom: 20px;
+}
+
+/* Estilo para el título */
+.auto-style3 {
+    font-size: large;
+}
+
+/* Estilo para las etiquetas de texto */
+.auto-style3 {
+    display: block;
+    margin-bottom: 5px;
+}
+
+/* Estilo para los campos de texto */
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Estilo para el botón */
+#btnConsultar {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+    /* Estilo para el botón cuando se coloca el mouse encima */
+    #btnConsultar:hover {
+        background-color: #0056b3;
+    }
